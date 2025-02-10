@@ -5,6 +5,17 @@
       "expo-router"
     ],
     "name": "MyNewProject",
-    "slug": "MyNewProject"
+    "slug": "MyNewProject",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e1f87afc-c6fc-4b06-a464-1c41ec702ac4"
+      }
+    },
+    "android": {
+      "package": "com.aremwai.MyNewProject"
+    }
   }
 }
